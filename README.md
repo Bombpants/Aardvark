@@ -31,7 +31,7 @@ Increaasing Attack speed will change the time between attacks to 2.5 * (0.98 ^ a
     Having 10 points in attack speed lets the AI attack once every 2.04 seconds
     Having 100 points in attack speed lets the AI attack once every 0.33 seconds
 
-Increasing Damage will increase damage to (1 + (damage)) ^ (1 + (1 - (0.9925 ^ health)))
+Increasing Damage will increase damage to (1 + (damage)) ^ (1 + (1 - (0.9925 ^ damage)))
     Having 1 point in damage will let the AI deal 2 damage
     Having 10 points in damage will let the AI deal 11.67 damage
     Having 100 points in damage will let the AI deal 280.64 damage
