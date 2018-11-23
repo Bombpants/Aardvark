@@ -1,1 +1,5 @@
 # Aardvark
+
+Project Aardvark is a placeholder name for a basic machine learning project that I am working on. This project will pit two "AI" in a head-to-head battle, where the AI will be in a 64ft x 64ft grid. For the earliest version, the AI will be allowed to choose one of several weapons, and will have a select number of stats (Health, armour, block change, movement speed, attack speed, and damage), with a limited number of ability points that the AI can use to best optimize their builds. The AI will all use the same combat algorith for aardvark, where they will move directly towards their opponent if they are out of their range, and will move away from their opponent if they are in range to try to allow them to attack the AI and prevent the AI from attacking them. 
+
+For Aardvark v1, the AI will all use the same weapon (a shortsword), and will not be moving. Movement speed will not be included as a stat, and the AI will have to find the optimal build to defeat their opponent and move on. Surviving AI will move on to the next round (fully healed), and a variation of them will 
